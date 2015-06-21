@@ -11,9 +11,6 @@
 │   ├── smile.bmp  
 │   └── thinkfu-js.gif  
 └── scanner 扫描器  
-    └── mac_address_scan 内网各机器mac地址获取  
-        ├── nmap-mac-prefixes  
-        ├── readme.MD  
-        ├── show.png  
-        └── xmap.exe  
+    ├── mac_address_scan 内网各机器mac地址获取    
+    └── weakfilescan 猪猪侠的弱点扫描工具
 ```
