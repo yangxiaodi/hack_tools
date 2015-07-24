@@ -1,0 +1,3 @@
+[submodule "scanner/DNSINFO"]
+	path = scanner/DNSINFO
+	url = https://github.com/0x-Jin/DNSINFO.git
