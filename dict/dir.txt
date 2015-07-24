@@ -1,0 +1,8 @@
+/public/projects
+/.git
+/.svn/entries
+/admin-console
+/jmx-console
+/invoker/JMXInvokerServlet
+/ucenter
+/../../../../../../../../../../etc/passwd
